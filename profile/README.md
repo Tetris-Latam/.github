@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Cuenta de Github para Tetris Moderno Latinoamérica. Unete a nuesto discord para ser parte de la comunidad!
+[TML en X](https://twitter.com/TM_Latam_)
+[TML en Twitch](https://twitch.tv/tm_latam)
+[TML en Youtube!](https://youtube.com/@tetrismodernolatinoamerica517)

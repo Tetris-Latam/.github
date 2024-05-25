@@ -13,8 +13,8 @@
 
 Cuenta de Github para Tetris Moderno Latinoamérica. Unete a nuesto discord para ser parte de la comunidad!
 
-[TML en X](https://twitter.com/TM_Latam_)
+[TML en X](https://twitter.com/TetrisLATAM)
 
-[TML en Twitch](https://twitch.tv/tm_latam)
+[TML en Twitch](https://twitch.tv/tetrislatam)
 
-[TML en Youtube!](https://youtube.com/@tetrismodernolatinoamerica517)
+[TML en Youtube!](https://youtube.com/@tetrisLATAM)
